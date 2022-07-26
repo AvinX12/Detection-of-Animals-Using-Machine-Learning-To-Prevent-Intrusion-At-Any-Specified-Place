@@ -36,7 +36,7 @@ An app-based prototype can be developed such that it will be user-friendly and c
 so that it can be taken anywhere for the detection of animal intrusion. 
 
 ## Guide
-#### Please refer the report [Final Report.pdf] to get the better understanding of this project.
+#### Please refer the report [Final Report.pdf] in "Documents" folder to get the better understanding of this project.
 
 #### SPECIAL THANKS TO "SASTRA DEEMED TO BE UNIVERSITY" [Official Webpage](https://www.sastra.edu/)
 ##### Thanks to EdjeElectronics - TensorFlow Lite Object Detection on Android and Raspberry Pi [Repository Link](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
